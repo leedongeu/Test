@@ -37,6 +37,7 @@ public class SchoolView {
 		for(int n=0;n<10;n=n+2) {
 			System.out.println(n);
 			//n++;
+			//123456
 		}
 		//a~z 출력
 		for(int e='a';e<='z';e++) {
